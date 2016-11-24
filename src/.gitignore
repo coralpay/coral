@@ -1,0 +1,4 @@
+qt/locale/*.qm
+Corald
+obj/
+leveldb/*.a.*
